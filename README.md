@@ -2,6 +2,8 @@
 
 This repository includes scripts to calculate daily and seasonally averaged top-of-atmosphere (TOA) incoming solar radiation (insolation) as a function of day and latitude. The calculation can be performed at any point during the past 5 million years.
 
+![TOA_Insolation_0ka](https://github.com/lawmana/InsolationAnalysis/blob/master/DailyInsolation_0_ka.png)
+
 ## Required companion toolboxes
 
 The scripts in the repository use the following toolboxes:
