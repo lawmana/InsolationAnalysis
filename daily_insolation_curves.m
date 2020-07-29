@@ -4,6 +4,9 @@
 
 % Calculate daily insolation for past time intervals at every latitude
 % Compare the insolation to present day (0 ka)
+
+% Author Info: 
+% Allison Lawman, UT Austin, 2020
 %--------------------------------------------------------------------------
 % REQUIRED FUNCTIONS & TOOLBOXES:
 % daily_insolation.m - Ian Eisenman and Peter Huybers, August 2006

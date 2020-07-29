@@ -4,6 +4,9 @@
 % Calculate seasonally averaged insolation as a function of time
 % Calculate the seasonal insolation contrats as a function of time
 
+% Author Info: 
+% Allison Lawman, UT Austin, 2020
+
 % The figures generated in this analysis are inspired by Figure S9 in
 % Emile-Geay et al., (2015), doi: 10.1038/ngeo2608
 %--------------------------------------------------------------------------
