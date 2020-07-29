@@ -15,6 +15,12 @@ The scripts in the repository use the following toolboxes:
 
 Available at: https://github.com/chadagreene/CDT
 
+*Links to other relevant and helpful CDT documentation:*
+
+http://www.chadagreene.com/CDT/daily_insolation_documentation.html
+
+http://www.chadagreene.com/CDT/doy_documentation.html
+
 Reference: Chad A. Greene, Kaustubh Thirumalai, Kelly A. Kearney, Jose Miguel Delgado, Wolfgang Schwanghart, Natalie S. Wolfenbarger, Kristen M. Thyng, David E. Gwyther, Alex S. Gardner, and Donald D. Blankenship. 2019. The Climate Data Toolbox for MATLAB. Geochemistry, Geophysics, Geosystems. doi: 10.1029/2019GC008392
 
 **2. cmocean perceptually-uniform colormaps for oceanography**
@@ -35,5 +41,3 @@ Reference: Thyng, K.M., C.A. Greene, R.D. Hetland, H.M. Zimmerle, and S.F. DiMar
 
 ### Seasonal insolation for a select latitude as a function of time
 *See code: **seasonal_insolation_curves.m***
-
-
